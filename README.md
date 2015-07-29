@@ -1,9 +1,4 @@
----
-language: css
-tags: css, responsive, layout, media queries
-type: lecture
-resources: 0
----
+
 
 ## Responsive Layout ~ 32min
 
