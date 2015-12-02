@@ -7,3 +7,4 @@ These videos are also available as a single [continuous playlist from the link h
 <iframe width="100%" height="480" src="//www.youtube.com/embed/T649edELGoY?list=PLj148bJp5wixCd5UDevQ-aok1sFnR0drW" frameborder="0" allowfullscreen></iframe>
 
 [slides](https://docs.google.com/presentation/d/1j_i5pGPB5lHbgr4fpdUDheRBv2kAeOk_yhfd1Uc2f3s/edit?usp=sharing)
+<a href='https://learn.co/lessons/fe-responsive-layout' data-visibility='hidden'>View this lesson on Learn.co</a>
